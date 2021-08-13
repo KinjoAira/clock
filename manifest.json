@@ -2,7 +2,7 @@
   "short_name": "デジタル時計",
   "name": "デジタル時計",
   "display": "standalone",
-  "start_url": "./clock/",
+  "start_url": "https://kinjoaira.github.io/clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{
